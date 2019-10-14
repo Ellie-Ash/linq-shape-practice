@@ -1,0 +1,11 @@
+/Users/ellieash/workspace/csharp/linqStuff/bin/Debug/netcoreapp3.0/linqStuff
+/Users/ellieash/workspace/csharp/linqStuff/bin/Debug/netcoreapp3.0/linqStuff.deps.json
+/Users/ellieash/workspace/csharp/linqStuff/bin/Debug/netcoreapp3.0/linqStuff.runtimeconfig.json
+/Users/ellieash/workspace/csharp/linqStuff/bin/Debug/netcoreapp3.0/linqStuff.runtimeconfig.dev.json
+/Users/ellieash/workspace/csharp/linqStuff/bin/Debug/netcoreapp3.0/linqStuff.dll
+/Users/ellieash/workspace/csharp/linqStuff/bin/Debug/netcoreapp3.0/linqStuff.pdb
+/Users/ellieash/workspace/csharp/linqStuff/obj/Debug/netcoreapp3.0/linqStuff.csprojAssemblyReference.cache
+/Users/ellieash/workspace/csharp/linqStuff/obj/Debug/netcoreapp3.0/linqStuff.AssemblyInfoInputs.cache
+/Users/ellieash/workspace/csharp/linqStuff/obj/Debug/netcoreapp3.0/linqStuff.AssemblyInfo.cs
+/Users/ellieash/workspace/csharp/linqStuff/obj/Debug/netcoreapp3.0/linqStuff.dll
+/Users/ellieash/workspace/csharp/linqStuff/obj/Debug/netcoreapp3.0/linqStuff.pdb
